@@ -31,10 +31,8 @@
   <a href="http://spotify-informer.daniels-roth-stan.fr/">
     <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
   </a><br/>
-  <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
-</p>
-
-<img src="https://views.whatilearened.today/views/github/Lokyyyyyy/views.svg"/>
+  </p>
+  <img src="https://views.whatilearened.today/views/github/Lokyyyyyy/views.svg"/>
 <h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
 <p>
   🧔 Moi c'est <bold>Max</bold>. 17 ans, amateur de code et de ☕.<br/>
