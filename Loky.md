@@ -37,7 +37,8 @@
  
   </p>
  <details>
-  <summary>Quelques statistiques ...</summary></>
+  <summary>Quelques statistiques ...<summary>
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-667-blue)
