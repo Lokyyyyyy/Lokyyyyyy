@@ -27,10 +27,6 @@
 </p>
 <p>
   <p>
-  🎶Now playing ...🎶<br/>
-  <a href="http://spotify-informer.daniels-roth-stan.fr/">
-    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
-  </a><br/>
   </p>
   <img src="https://views.whatilearened.today/views/github/Lokyyyyyy/views.svg"/>
 <h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
