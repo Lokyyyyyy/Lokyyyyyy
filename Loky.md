@@ -37,7 +37,7 @@
  
   </p>
  <details>
-  <summary>Quelques statistiques ...<summary>
+  <summary>Quelques statistiques ...
 
 
 <!--START_SECTION:waka-->
