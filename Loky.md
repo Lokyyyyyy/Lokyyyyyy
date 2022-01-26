@@ -34,13 +34,13 @@
   🧔 Moi c'est <bold>Max</bold>. 17 ans, amateur de code et de ☕.<br/>
   💼 </a><br/> J'habite à Hérouville<a href=https://www.google.com/maps/place/H%C3%A9rouville-Saint-Clair/@49.2042362,-0.3498782,14z/data=!3m1!4b1!4m5!3m4!1s0x480a67e240c6e181:0x40c14484fbceb50!8m2!3d49.20358!4d-0.333655/</a>, en France.</br></p>
  
-  </p>
+  </p><br
 <details>
   <summary>Quelques statistiques ...</summary><br/>
 
 **🐱 My Github Data** 
 
-> 🏆 17 Contributions in the Year 2021
+> 🏆 38 Contributions in two year
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
