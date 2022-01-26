@@ -32,7 +32,7 @@
 <h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
 <p>
   🧔 Moi c'est <bold>Max</bold>. 17 ans, amateur de code et de ☕.<br/>
-  💼 J'habite à <a href=https://www.google.com/maps/place/H%C3%A9rouville-Saint-Clair/@49.2042362,-0.3498782,14z/data=!3m1!4b1!4m5!3m4!1s0x480a67e240c6e181:0x40c14484fbceb50!8m2!3d49.20358!4d-0.333655/</a>, en France.<br/>
+  💼 J'habite à Hérouville<a href=https://www.google.com/maps/place/H%C3%A9rouville-Saint-Clair/@49.2042362,-0.3498782,14z/data=!3m1!4b1!4m5!3m4!1s0x480a67e240c6e181:0x40c14484fbceb50!8m2!3d49.20358!4d-0.333655/</a>, en France.<br/>
   </p>
 <p>
  
@@ -40,7 +40,7 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-304-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-667-blue)
 
 **🐱 My Github Data** 
 
